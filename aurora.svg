@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#0f172a"/>
+<stop offset="50%" stop-color="#2563eb"/>
+<stop offset="100%" stop-color="#06b6d4"/>
+</linearGradient>
+</defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<circle cx="250" cy="120" r="90" fill="#ffffff10"/>
+<circle cx="1200" cy="320" r="120" fill="#ffffff10"/>
+<text x="80" y="180" fill="white" font-size="64" font-family="Arial" font-weight="bold">Vishnu R</text>
+<text x="80" y="245" fill="#dbeafe" font-size="28" font-family="Arial">Python Backend Developer • Django • DRF • AWS</text>
+</svg>
