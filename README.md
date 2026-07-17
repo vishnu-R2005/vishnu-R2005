@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aurora.svg" width="100%"/>
+<img src="aurora.svg" width="100%"/>
 
 # 💎 Vishnu R
 
