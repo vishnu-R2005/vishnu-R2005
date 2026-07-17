@@ -192,7 +192,7 @@ Kubernetes      ████░░░░░░░░░░░░░░░░  20
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vishnu-R2005/vishnu-R2005/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/vishnu-R2005/vishnu-R2005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 > Enable the [snake action](https://github.com/Platane/snk) in your repo to activate this animation.
