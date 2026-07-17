@@ -1,52 +1,44 @@
 <div align="center">
 
-# 💎 Vishnu R
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Vishnu%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Developer%20|%20Django%20|%20DRF%20|%20AWS&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+%7C+Django+REST+Framework;REST+API+Developer;AWS+%7C+Docker+%7C+PostgreSQL;Building+Scalable+Backend+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+%26+Django+REST+Framework;REST+API+Developer;AWS+%7C+Docker+%7C+PostgreSQL;Open+Source+Enthusiast;Backend+Engineer+in+Progress🚀"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=58A6FF"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=vishnu-R2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/vishnu-R2005?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/vishnu-R2005?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+# 💎 About Me
 
-# ✨ Glass Profile
-
-<table>
-<tr>
-<td width="50%">
-
-## 👨‍💻 About Me
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=vishnu-R2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 🎓 Computer Science Engineering Graduate (2026)
 
 🐍 Python Backend Developer
 
-⚡ Django & Django REST Framework
+⚙️ Django & Django REST Framework
 
-🗄️ PostgreSQL • SQLite
+🗄️ PostgreSQL • SQLite • MongoDB
 
 ☁️ AWS • Docker • Linux
 
-📚 Learning System Design
+📚 Learning
 
-🎯 Goal:
+- System Design
+- Advanced Django
+- Docker & Kubernetes
+- AWS Cloud
+- DSA
 
-Become a Backend Software Engineer at a Product Based Company.
+🎯 Goal
 
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishnu-R2005&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+Become a Backend Software Engineer at a Product-Based Company.
 
 ---
 
@@ -59,7 +51,7 @@ Become a Backend Software Engineer at a Product Based Company.
 </a>
 
 <a href="https://linkedin.com/in/vishnu-r-1b3b26349">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/itsmevishnu._">
@@ -70,7 +62,7 @@ Become a Backend Software Engineer at a Product Based Company.
 
 ---
 
-# ⚙️ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -92,7 +84,7 @@ Become a Backend Software Engineer at a Product Based Company.
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx"/>
 
 ### Tools
 
@@ -104,81 +96,24 @@ Become a Backend Software Engineer at a Product Based Company.
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🏥 Doctor Appointment System
-
-✔ Django REST API
-
-✔ JWT Authentication
-
-✔ PostgreSQL
-
-✔ Admin Dashboard
-
-</td>
-
-<td width="50%">
-
-## 💇 SalonSync
-
-✔ Django
-
-✔ Booking System
-
-✔ Payment Integration
-
-✔ Admin Panel
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📚 Library Management
-
-✔ Python
-
-✔ SQLite
-
-✔ CRUD
-
-</td>
-
-<td width="50%">
-
-## 🖼️ CBIR
-
-✔ Deep Learning
-
-✔ VGG19
-
-✔ OpenCV
-
-✔ Image Retrieval
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description |
+|---------|-------------|
+| 🏥 Doctor Appointment System | Django + DRF + PostgreSQL + JWT Authentication |
+| 💇 SalonSync | Appointment Booking Platform |
+| 📚 Library Management | Python + SQLite CRUD |
+| 🖼️ CBIR | Deep Learning Image Retrieval using VGG19 |
+| 🤖 AI Financial Planner | AI Agent Backend |
+| 🌐 Portfolio Website | Responsive Personal Portfolio |
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnu-R2005&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishnu-R2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-R2005&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-R2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,7 +121,7 @@ Become a Backend Software Engineer at a Product Based Company.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishnu-R2005&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vishnu-R2005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -202,77 +137,102 @@ Become a Backend Software Engineer at a Product Based Company.
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-R2005&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-R2005&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vishnu-R2005/vishnu-R2005/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 💻 Current Focus
+# ⚡ Coding Profile
 
 ```python
 class Vishnu:
 
-    role = "Python Backend Developer"
+    def __init__(self):
+        self.name = "Vishnu R"
+        self.role = "Python Backend Developer"
 
-    languages = [
-        "Python",
-        "C++",
-        "JavaScript"
-    ]
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript"
+        ]
 
-    backend = [
-        "Django",
-        "DRF",
-        "Flask"
-    ]
+        self.backend = [
+            "Django",
+            "Django REST Framework",
+            "Flask"
+        ]
 
-    databases = [
-        "PostgreSQL",
-        "SQLite",
-        "MongoDB"
-    ]
+        self.database = [
+            "PostgreSQL",
+            "SQLite",
+            "MongoDB"
+        ]
 
-    cloud = [
-        "AWS",
-        "Docker",
-        "Nginx"
-    ]
+        self.cloud = [
+            "AWS",
+            "Docker",
+            "Linux"
+        ]
 
-    learning = [
-        "System Design",
-        "Docker",
-        "AWS",
-        "DSA"
-    ]
+        self.learning = [
+            "System Design",
+            "Docker",
+            "AWS",
+            "Kubernetes"
+        ]
 
-    goal = "Backend Engineer @ Product Based Company"
+    def motto(self):
+        return "Keep Building. Keep Learning."
 
-print("Always Learning 🚀")
+me = Vishnu()
+
+print(me.motto())
+```
+
+---
+
+# 📈 Current Goals
+
+- Master Django REST Framework
+- Learn Kubernetes
+- Crack Product-Based Company Interviews
+- Solve 500+ DSA Problems
+- Contribute to Open Source
+
+---
+
+# ☕ Fun Fact
+
+```text
+while(alive){
+
+    Eat();
+
+    Code();
+
+    Learn();
+
+    Sleep();
+
+    Repeat();
+
+}
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vishnu-R2005&style=for-the-badge&color=blue"/>
+### ⭐ Thanks for visiting my profile!
 
-### ⭐ If you like my work, don't forget to Star my repositories!
+If you like my projects, consider giving them a ⭐
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
