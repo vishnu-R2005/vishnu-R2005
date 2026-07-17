@@ -88,5 +88,5 @@ Kubernetes     ████░░░░░░░░░░░░░░
 Enable the included workflow and then add:
 
 ```md
-<img src="https://raw.githubusercontent.com/vishnu-R2005/vishnu-R2005/output/github-contribution-grid-snake-dark.svg"/>
+<img src="github-contribution-grid-snake-dark.svg"/>
 ```
