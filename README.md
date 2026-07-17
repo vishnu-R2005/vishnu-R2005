@@ -1,7 +1,7 @@
 # 💫 About Me:
-# Hi there 👋, I'm Vishnu<br><br>🎓 Computer Science Engineering Graduate (2026)<br>💻 Python Backend Developer | Django | Django REST Framework<br>🚀 Passionate about building scalable backend systems and RESTful APIs.<br><br>👨‍💻 About Me<br><br>- 🐍 Python Backend Developer<br>- ⚙️ Building web applications with Django & DRF<br>- 🗄️ Working with PostgreSQL, SQLite & REST APIs<br>- ☁️ Learning AWS, Docker & Cloud Deployment<br>- 📚 Currently sharpening my DSA and System Design skills<br>- 🎯 Goal: Become a Backend Software Engineer at a product-based company<br>
+# Hi there 👋, I'm Vishnu<br>**<br>🎓 Computer Science Engineering Graduate (2026)<br>💻 Python Backend Developer | Django | Django REST Framework<br>🚀 Passionate about building scalable backend systems and RESTful APIs.<br><br>👨‍💻 About Me<br><br>- 🐍 Python Backend Developer<br>- ⚙️ Building web applications with Django & DRF<br>- 🗄️ Working with PostgreSQL, SQLite & REST APIs<br>- ☁️ Learning AWS, Docker & Cloud Deployment<br>- 📚 Currently sharpening my DSA and System Design skills<br>- 🎯 Goal: Become a Backend Software Engineer at a product-based company<br>
 
-
+**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmevishnu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-r-1b3b26349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnu.r.dev26@gmail.com) 
 
