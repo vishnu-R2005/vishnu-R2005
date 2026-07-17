@@ -195,10 +195,6 @@ Kubernetes      ████░░░░░░░░░░░░░░░░  20
   <img src="https://raw.githubusercontent.com/vishnu-R2005/vishnu-R2005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-> Enable the [snake action](https://github.com/Platane/snk) in your repo to activate this animation.
-
----
-
 ## 🎓 Background
 
 - 🎓 **B.E. Computer Science & Engineering**, Don Bosco Institute of Technology, Bengaluru (2022–2026) — CGPA 7.81/10
