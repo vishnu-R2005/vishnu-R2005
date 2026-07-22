@@ -1,6 +1,8 @@
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0F172A&text=Hey,%20I'm%20Vishnu%20👋&fontSize=48&fontColor=00F5FF&animation=twinkling&desc=Python%20Backend%20Developer%20|%20Django%20|%20DRF%20|%20AWS&descAlignY=62&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:7C3AED,100:06B6D4&text=Hey,%20I'm%20Vishnu%20👋&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=800&multiline=true&repeat=true&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Django+%2B+DRF+%2B+PostgreSQL+%F0%9F%90%8D;Turning+Coffee+Into+Clean+Code+%E2%98%95"/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Django+%2B+DRF+%2B+PostgreSQL+%F0%9F%90%8D;Shipping+Production-Ready+Backends+%E2%9A%99%EF%B8%8F;Currently+Leveling+Up+System+Design+%F0%9F%93%88;Always+Building%2C+Always+Learning+%F0%9F%94%A5"/>
 
 <br/>
