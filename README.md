@@ -1,9 +1,8 @@
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:7C3AED,100:06B6D4&text=Hey,%20I'm%20Vishnu%20👋&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=800&multiline=true&repeat=true&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Django+%2B+DRF+%2B+PostgreSQL+%F0%9F%90%8D;Turning+Coffee+Into+Clean+Code+%E2%98%95"/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Django+%2B+DRF+%2B+PostgreSQL+%F0%9F%90%8D;Shipping+Production-Ready+Backends+%E2%9A%99%EF%B8%8F;Currently+Leveling+Up+System+Design+%F0%9F%93%88;Always+Building%2C+Always+Learning+%F0%9F%94%A5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:7C3AED,100:06B6D4&text=Hey,%20I'm%20Vishnu%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Developer%20|%20Django%20|%20DRF%20|%20Automation%20(n8n)%20|%20React&descAlignY=62&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=900&multiline=true&repeat=true&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Django+%2B+DRF+%2B+PostgreSQL+%F0%9F%90%8D;Automating+Workflows+with+n8n+%E2%9A%A1;React+Frontends+%2B+Django+Backends+%F0%9F%94%84;Shipping+Production-Ready+Systems+%E2%9A%99%EF%B8%8F"/>
 
 <br/>
 
@@ -11,7 +10,7 @@
 <a href="https://linkedin.com/in/vishnu-r-1b3b26349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/itsmevishnu._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=vishnu-R2005&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=vishnu-R2005&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/vishnu-R2005?style=for-the-badge&color=06B6D4&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=handshake&logoColor=white"/>
 
@@ -30,14 +29,16 @@ name: Vishnu R
 role: Python Backend Developer
 education: B.E. Computer Science (2026)
 based_in: Bengaluru, India
-focus: Django • DRF • REST APIs • PostgreSQL
+focus: Django • DRF • REST APIs • PostgreSQL • n8n Automation • React
 currently_exploring: [System Design, Kubernetes, Cloud Deployment]
 mission: Land a Backend Engineer role at a product-based company
-fun_fact: "I turn coffee into clean, scalable APIs ☕→🚀"
+fun_fact: "I turn coffee into clean, scalable, automated APIs ☕→🚀"
 ```
 
 - 🐍 **Backend-first developer** — I love turning messy requirements into clean, well-documented APIs
 - ⚙️ Comfortable across **Django, DRF, Flask**, and increasingly **system design**
+- 🔄 Build **automated workflows with n8n** — webhooks, integrations, and no-code/low-code pipelines that glue systems together
+- ⚛️ Pair Django backends with **React** frontends for full-stack, production-ready apps
 - 🗄️ Data layer: **PostgreSQL • SQLite • MongoDB • Redis**
 - ☁️ Ship with **Docker, AWS, Linux**, and CI-friendly habits
 - 🧠 Strong fundamentals in **DSA, DBMS, OS, and OOP**
@@ -65,9 +66,9 @@ Ex-Intern @ NewGen SofTech (Feb–May 2026)
 Built RESTful APIs, JWT auth & RBAC systems
 
 vishnu@backend:~$ ls projects/
-GoCart/  SalonSync/  DoctorAppointmentSystem/  AI-Financial-Planner/  CBIR/
+GoCart/  SalonSync/  DoctorAppointmentSystem/  AI-Financial-Planner/  CBIR/  n8n-Automations/
 
-vishnu@backend:~$ ./deploy.sh --target=career
+vishnu@backend:~$ ./deploy.sh --target=career --stack=django+react+n8n
 🚀 Deploying ambition... Success!
 ```
 
@@ -76,7 +77,7 @@ vishnu@backend:~$ ./deploy.sh --target=career
 ## ⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,js,react,redux,html,css,bootstrap,postgres,mongodb,sqlite,docker,aws,linux,git,github,vscode,postman&perline=11"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,js,react,redux,html,css,bootstrap,postgres,mongodb,sqlite,docker,aws,linux,git,github,vscode,postman,n8n&perline=11"/>
 </p>
 
 <div align="center">
@@ -84,6 +85,8 @@ vishnu@backend:~$ ./deploy.sh --target=career
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -121,11 +124,22 @@ vishnu@backend:~$ ./deploy.sh --target=career
 <tr>
 <td width="50%">
 
+### 🔄 n8n Workflow Automations
+**n8n · Webhooks · REST APIs · Django Integrations**
+- Automated notification, data-sync & CRM pipelines
+- Webhook-triggered workflows connecting Django APIs to third-party apps
+- No-code/low-code glue for backend event handling
+
+</td>
+<td width="50%">
+
 ### 🏥 Doctor Appointment System
 **Django · DRF · JWT · PostgreSQL**
 - Secure multi-user appointment scheduling backend
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🤖 AI Financial Planning Agent
@@ -133,20 +147,11 @@ vishnu@backend:~$ ./deploy.sh --target=career
 - Conversational agent for personal finance planning
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🖼️ CBIR — Content-Based Image Retrieval
 **OpenCV · VGG19**
 - Deep-learning powered visual image search engine
-
-</td>
-<td width="50%">
-
-### 📚 Library Management System
-**Python · CRUD**
-- Classic clean-code CRUD application
 
 </td>
 </tr>
@@ -160,6 +165,8 @@ vishnu@backend:~$ ./deploy.sh --target=career
 Python          ████████████████████ 100%
 Django          ██████████████████░░  90%
 DRF             █████████████████░░░  85%
+React           ███████████████░░░░░  75%
+n8n Automation  ██████████████░░░░░░  70%
 PostgreSQL      ████████████████░░░░  80%
 Docker          ████████████░░░░░░░░  60%
 AWS             ███████████░░░░░░░░░  55%
@@ -210,10 +217,10 @@ Kubernetes      ████░░░░░░░░░░░░░░░░  20
 
 ### 💬 Let's Build Something Great Together
 
-*"Build • Learn • Ship • Repeat."*
+*"Build • Automate • Ship • Repeat."*
 
 📫 **Reach me:** vishnu.r.dev26@gmail.com &nbsp;|&nbsp; 📱 +91 8746024432
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,50:2563EB,100:0F172A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,50:7C3AED,100:0F172A"/>
 
 </div>
